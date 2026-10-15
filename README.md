@@ -14,4 +14,5 @@ Los registros analizados provienen de despachos.csv
 | Puente Alto | 85 | 85 | 0 |
 | Huechuraba | 115 | 110 | 5 |
 
-[datos del proyecto](https://github.com)
+Los datos están en [despachos.csv](datos/despachos.csv).
+
