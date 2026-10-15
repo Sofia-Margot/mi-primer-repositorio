@@ -1,4 +1,5 @@
 # Análisis de Despachos de una PyME
+Los registros analizados provienen de despachos.csv
 ## Datos Analizados
 - Identificador del pedido (`order_id`)
 - Comuna de entrega
