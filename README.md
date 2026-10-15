@@ -10,8 +10,8 @@ Los registros analizados provienen de despachos.csv
 | Comuna | Despachos | Entregado | En camino |
 | ------ | --------- | --------- | --------- |
 | Maipú | 120 | 118 | 2 |
-| Santiago Centro | 98 | 95 | 3
-| La Florida | 85 | 85 | 0 |
+| Ñuñoa | 98 | 95 | 3
+| Puente Alto | 85 | 85 | 0 |
 | Huechuraba | 115 | 110 | 5 |
 
 [datos del proyecto](https://github.com)
